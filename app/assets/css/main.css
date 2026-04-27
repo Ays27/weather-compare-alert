@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+html {
+  @apply bg-slate-50;
+}
+
+body {
+  @apply bg-slate-50;
+}
