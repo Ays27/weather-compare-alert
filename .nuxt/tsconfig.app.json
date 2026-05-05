@@ -128,7 +128,7 @@
         "./color-mode-options.mjs"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/dev"
       ],
       "#components": [
         "./components"
@@ -185,7 +185,6 @@
   ],
   "exclude": [
     "../node_modules",
-    "../../../node_modules",
     "../../../downloads/weather-compareandalert/node_modules/.pnpm/nuxt@4.4.2_@babel+core@7.29_56f769de628cea253222803387a27e88/node_modules/nuxt/node_modules",
     "../../../downloads/weather-compareandalert/node_modules/.pnpm/@nuxt+ui@4.7.0_@internation_317b485d9fc764b113a8330aae33f4de/node_modules/@nuxt/ui/node_modules",
     "../../../downloads/weather-compareandalert/node_modules/.pnpm/@nuxt+devtools@3.2.4_vite@7_6dd82468bef62e229e16e6db230f9d29/node_modules/@nuxt/devtools/node_modules",
